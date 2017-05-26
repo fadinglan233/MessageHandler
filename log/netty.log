@@ -1,0 +1,38 @@
+[DEBUG] [2017-05-26 09:47:52,611] [ActiveMQ Session Task-2] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:47:57,287] [ActiveMQ Session Task-2] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:47:57,375] [ActiveMQ Session Task-2] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:47:57,591] [ActiveMQ Session Task-2] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:47:57,677] [ActiveMQ Session Task-2] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:47:57,894] [ActiveMQ Session Task-2] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:47:57,981] [ActiveMQ Session Task-2] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:47:58,200] [ActiveMQ Session Task-2] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:47:58,287] [ActiveMQ Session Task-2] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:47:58,505] [ActiveMQ Session Task-2] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:47:58,601] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:47:58,821] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:04,914] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:05,131] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:05,298] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:05,515] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:05,625] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:05,841] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:05,969] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:06,185] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:06,541] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:06,763] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:06,914] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:07,129] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:07,279] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:07,499] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:07,615] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:07,833] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:07,984] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:08,202] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:08,405] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:08,627] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:09,860] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:10,080] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:12,733] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:12,949] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
+[DEBUG] [2017-05-26 09:48:13,663] [ActiveMQ Session Task-3] [handler.MsgConsumer] sleep data is : [2 3 4 6 7 3 2 1 ]
+[DEBUG] [2017-05-26 09:48:13,885] [ActiveMQ Session Task-3] [mysql.DeviceInfo] device :[BeJson] save successful
